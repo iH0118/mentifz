@@ -3,6 +3,10 @@
 # Author: iH0118
 # this script is officially gay
 
+
+## THIS IS VERY INCOMPLETE BTW
+
+
 while getopts 'h' OPTION; do
   case "$OPTION" in
     h)
