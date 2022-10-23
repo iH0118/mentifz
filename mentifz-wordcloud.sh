@@ -10,9 +10,8 @@
 while getopts 'h' OPTION; do
   case "$OPTION" in
     h)
-      echo "mentifz-wordcloud.sh help:
+      echo "Usage: mentifz-wordcloud.sh [options] <input data>
 
-            Basic Usage: mentifz-wordcloud.sh [-]
             "
       ;;
     ?)
